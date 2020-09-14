@@ -1,1 +1,1 @@
-worker : python my-first-project.py
+worker: python telegram-bot.py
